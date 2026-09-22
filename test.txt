@@ -19,4 +19,5 @@ im so ill, im gonna d!3
 added env var so i hope it works
 test
 test
+fixed some text bugs
 
